@@ -1,12 +1,21 @@
-## Hi there 👋
+# Economic Brain Lab
 
-<!--
+Welcome to the Economic Brain Lab at Swinburne University of Technology, Melbourne.
 
-**Here are some ideas to get you started:**
+We investigate the intersection of neuroscience, psychology, and economics to understand how the brain makes economic decisions. Our research combines neuroimaging, behavioral experiments, and computational modeling.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Research Focus
+- Neural mechanisms of decision-making under uncertainty and risk
+- Effort-based and temporal (delay) discounting
+- Metacognition as a mechanism of behavioral control
+- Computational models of value-based choice
+
+## Open Science
+We're committed to transparent, reproducible research. Here you'll find:
+- Analysis code and computational models
+- Experimental paradigms and protocols
+- Data processing pipelines
+- Teaching materials
+
+## Contact
+[Website](www.economicbrainlab.org) | [LinkedIn](www.linkedin.com/company/economic-brain-lab) | [Bluesky](https://bsky.app/profile/economic-brain-lab.bsky.social)
