@@ -1,4 +1,4 @@
-![Logo](/profile/assets/logo.svg)
+![Logo](/profile/assets/swin.jpg)
 
 **Understanding Value, Shaping Choices**
 
