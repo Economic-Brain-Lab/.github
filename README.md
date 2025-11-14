@@ -1,21 +1,15 @@
-# Economic Brain Lab
+# .github Repository for Economic Brain Lab
 
-Welcome to the Economic Brain Lab at Swinburne University of Technology, Melbourne.
+This repository contains GitHub-wide configuration files for the Economic Brain Lab organization.
 
-We investigate the intersection of neuroscience, psychology, and economics to understand how the brain makes economic decisions. Our research combines neuroimaging, behavioral experiments, and computational modeling.
+### Contents
+- `profile/README.md`: Organization landing page content
+- `workflows/`: GitHub Actions for CI/CD
+- `ISSUE_TEMPLATE/`: Templates for lab repositories
+- `FUNDING.yml`: Links to lab funding sources
 
-## Research Focus
-- Neural mechanisms of decision-making under uncertainty and risk
-- Effort-based and temporal (delay) discounting
-- Metacognition as a mechanism of behavioral control
-- Computational models of value-based choice
+These files help maintain consistency and automation across all lab repositories.
 
-## Open Science
-We're committed to transparent, reproducible research. Here you'll find:
-- Analysis code and computational models
-- Experimental paradigms and protocols
-- Data processing pipelines
-- Teaching materials
+---
 
-## Contact
-[Website](www.economicbrainlab.org) | [LinkedIn](www.linkedin.com/company/economic-brain-lab) | [Bluesky](https://bsky.app/profile/economic-brain-lab.bsky.social)
+For more information, visit our [lab website](www.economicbrainlab.org).
