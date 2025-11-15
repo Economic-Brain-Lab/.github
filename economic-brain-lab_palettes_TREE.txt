@@ -1,0 +1,22 @@
+economic-brain-lab_palettes/
+  LICENSE
+  ebl_palette.py
+  README.md
+  .gitignore
+  requirements.txt
+  styles/
+    ebl.mplstyle
+    ebl_dark.mplstyle
+  examples/
+    demo.py
+  figures/
+    demo_categorical_bars_dark.png
+    demo_swatches_dark.png
+    demo_lines_brand_bright.png
+    demo_heatmaps_bright.png
+    demo_scatter_safe_bright.png
+    demo_heatmaps_dark.png
+    demo_scatter_safe_dark.png
+    demo_lines_brand_dark.png
+    demo_categorical_bars_bright.png
+    demo_swatches_bright.png
